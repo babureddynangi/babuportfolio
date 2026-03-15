@@ -6,11 +6,11 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Full Stack Developer with 4+ years of experience building scalable web
-          applications using React.js, Angular, Next.js, Node.js, and NestJS. Skilled
-          in microservices architecture, CMS development, and low-code platforms.
-          Passionate about creating high-performance, production-ready solutions
-          from concept to deployment.
+          Cloud Migration Product Owner and Assistant Vice President at Synchrony with
+          12+ years of experience in big data, AWS solutions, and enterprise leadership.
+          Skilled in aligning business strategies with technological execution across
+          large-scale data platforms. Certified AWS Cloud Quest: Generative AI Practitioner
+          with an Executive MBA from Symbiosis Institute of Business Management.
         </p>
       </div>
     </div>

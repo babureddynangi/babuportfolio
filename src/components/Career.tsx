@@ -15,43 +15,31 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>Senior Software Engineer</h4>
+                <h5>Wipro</h5>
               </div>
-              <h3>2020</h3>
+              <h3>2013</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
+              Managed enterprise Hadoop infrastructure powering large-scale data processing.
+              Oversaw 15 Hadoop clusters handling ~500 TB of distributed data, led cluster
+              provisioning and deployment, ensured high availability of HDFS and YARN
+              workloads, and optimized large-scale ETL and analytics pipelines.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
-              </div>
-              <h3>2021</h3>
-            </div>
-            <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h4>Assistant Vice President</h4>
+                <h5>Synchrony</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Contributing to strategic cloud migration initiatives at Synchrony, leveraging
+              AWS (EC2, S3, EMR, SageMaker, Redshift) and big data expertise. Aligning
+              business strategies with technological execution using Agile and SAFe
+              methodologies in a remote capacity from Hyderabad.
             </p>
           </div>
         </div>

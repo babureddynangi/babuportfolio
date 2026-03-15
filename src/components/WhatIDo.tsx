@@ -87,22 +87,22 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>FRONTEND</h3>
-              <h4>Building Interactive UIs</h4>
+              <h3>CLOUD & BIG DATA</h3>
+              <h4>AWS & Hadoop Infrastructure</h4>
               <p>
-                Crafting performant, responsive interfaces with modern frameworks.
-                From SPAs to micro-frontends, I deliver pixel-perfect experiences.
+                Driving cloud migration and managing large-scale data platforms on AWS.
+                From EC2 to SageMaker, delivering reliable and scalable cloud solutions.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">React.js</div>
-                <div className="what-tags">Angular</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">Material UI</div>
-                <div className="what-tags">HTML5</div>
-                <div className="what-tags">CSS3</div>
+                <div className="what-tags">AWS EC2</div>
+                <div className="what-tags">AWS S3</div>
+                <div className="what-tags">AWS EMR</div>
+                <div className="what-tags">SageMaker</div>
+                <div className="what-tags">Redshift</div>
+                <div className="what-tags">Hadoop</div>
+                <div className="what-tags">HDFS</div>
+                <div className="what-tags">YARN</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -126,22 +126,22 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BACKEND</h3>
-              <h4>Scalable Server Architecture</h4>
+              <h3>LEADERSHIP & STRATEGY</h3>
+              <h4>Product Ownership & Agile Delivery</h4>
               <p>
-                Designing robust APIs and microservices. From CMS platforms to
-                complex business logic, I build backends that scale.
+                Leading cross-functional teams and aligning business strategy with
+                technology execution. Driving Agile and SAFe delivery at enterprise scale.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">NestJS</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">REST APIs</div>
-                <div className="what-tags">Microservices</div>
-                <div className="what-tags">Python</div>
+                <div className="what-tags">Agile</div>
+                <div className="what-tags">SAFe</div>
+                <div className="what-tags">Product Ownership</div>
+                <div className="what-tags">ETL Pipelines</div>
+                <div className="what-tags">Data Platform</div>
+                <div className="what-tags">Capacity Planning</div>
+                <div className="what-tags">Gen AI</div>
+                <div className="what-tags">Cloud Migration</div>
               </div>
               <div className="what-arrow"></div>
             </div>
